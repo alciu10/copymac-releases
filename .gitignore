@@ -1,0 +1,10 @@
+# Only track releases and documentation
+*.DS_Store
+.build/
+*.swp
+*.tmp
+
+# Keep releases
+!*.zip
+!*.dmg
+!*.pkg
