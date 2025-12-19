@@ -1,5 +1,6 @@
 # CopyMac
 
+<<<<<<< HEAD
 A fast, lightweight clipboard manager for macOS.
 
 ## Features
@@ -37,3 +38,11 @@ For support and feature requests, please contact: [your-email]
 ## License
 
 MIT License - Commercial use allowed.
+=======
+CopyMac is a lightweight macOS utility that enhances clipboard productivity.
+
+## Installation (Homebrew)
+
+```bash
+brew install --cask alciu10/copymac/copymac
+>>>>>>> e732f1a09fc9d21d6135654ba9cfc07ea66f66a4
